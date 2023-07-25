@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Task_34\Task_34\bin\Debug\net7.0\Task_34.exe
+C:\Users\User\source\repos\Task_34\Task_34\bin\Debug\net7.0\Task_34.deps.json
+C:\Users\User\source\repos\Task_34\Task_34\bin\Debug\net7.0\Task_34.runtimeconfig.json
+C:\Users\User\source\repos\Task_34\Task_34\bin\Debug\net7.0\Task_34.dll
+C:\Users\User\source\repos\Task_34\Task_34\bin\Debug\net7.0\Task_34.pdb
+C:\Users\User\source\repos\Task_34\Task_34\obj\Debug\net7.0\Task_34.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Task_34\Task_34\obj\Debug\net7.0\Task_34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Task_34\Task_34\obj\Debug\net7.0\Task_34.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Task_34\Task_34\obj\Debug\net7.0\Task_34.AssemblyInfo.cs
+C:\Users\User\source\repos\Task_34\Task_34\obj\Debug\net7.0\Task_34.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Task_34\Task_34\obj\Debug\net7.0\Task_34.dll
+C:\Users\User\source\repos\Task_34\Task_34\obj\Debug\net7.0\refint\Task_34.dll
+C:\Users\User\source\repos\Task_34\Task_34\obj\Debug\net7.0\Task_34.pdb
+C:\Users\User\source\repos\Task_34\Task_34\obj\Debug\net7.0\Task_34.genruntimeconfig.cache
+C:\Users\User\source\repos\Task_34\Task_34\obj\Debug\net7.0\ref\Task_34.dll
