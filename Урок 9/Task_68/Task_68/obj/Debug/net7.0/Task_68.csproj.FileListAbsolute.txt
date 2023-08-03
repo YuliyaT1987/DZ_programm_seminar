@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Task_68\Task_68\bin\Debug\net7.0\Task_68.exe
+C:\Users\User\source\repos\Task_68\Task_68\bin\Debug\net7.0\Task_68.deps.json
+C:\Users\User\source\repos\Task_68\Task_68\bin\Debug\net7.0\Task_68.runtimeconfig.json
+C:\Users\User\source\repos\Task_68\Task_68\bin\Debug\net7.0\Task_68.dll
+C:\Users\User\source\repos\Task_68\Task_68\bin\Debug\net7.0\Task_68.pdb
+C:\Users\User\source\repos\Task_68\Task_68\obj\Debug\net7.0\Task_68.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Task_68\Task_68\obj\Debug\net7.0\Task_68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Task_68\Task_68\obj\Debug\net7.0\Task_68.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Task_68\Task_68\obj\Debug\net7.0\Task_68.AssemblyInfo.cs
+C:\Users\User\source\repos\Task_68\Task_68\obj\Debug\net7.0\Task_68.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Task_68\Task_68\obj\Debug\net7.0\Task_68.dll
+C:\Users\User\source\repos\Task_68\Task_68\obj\Debug\net7.0\refint\Task_68.dll
+C:\Users\User\source\repos\Task_68\Task_68\obj\Debug\net7.0\Task_68.pdb
+C:\Users\User\source\repos\Task_68\Task_68\obj\Debug\net7.0\Task_68.genruntimeconfig.cache
+C:\Users\User\source\repos\Task_68\Task_68\obj\Debug\net7.0\ref\Task_68.dll
